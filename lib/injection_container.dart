@@ -1,7 +1,6 @@
 import 'package:get_it/get_it.dart';
 
 import 'core/local_storage/position_hive_local_storage.dart';
-
 import 'core/service/geolocator_service.dart';
 import 'features/attendance/data/datasources/local_datasources/position_datasourcesimpl.dart';
 import 'features/attendance/data/repository/attendance_repositoryimpl.dart';
